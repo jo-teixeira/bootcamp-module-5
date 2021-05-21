@@ -1,4 +1,4 @@
-package class4.list4.ex4;
+package class4.list4.ex1;
 
 public class Diretor extends FuncionarioCLT {
 

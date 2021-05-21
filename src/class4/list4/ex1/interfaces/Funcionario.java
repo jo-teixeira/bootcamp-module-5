@@ -1,4 +1,4 @@
-package class4.list4.ex4.interfaces;
+package class4.list4.ex1.interfaces;
 
 public interface Funcionario {
 

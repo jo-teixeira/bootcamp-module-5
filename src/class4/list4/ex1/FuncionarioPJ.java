@@ -1,6 +1,6 @@
-package class4.list4.ex4;
+package class4.list4.ex1;
 
-import class4.list4.ex4.interfaces.Funcionario;
+import class4.list4.ex1.interfaces.Funcionario;
 
 public class FuncionarioPJ implements Funcionario {
 
