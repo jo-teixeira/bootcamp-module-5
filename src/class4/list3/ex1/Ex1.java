@@ -9,5 +9,14 @@ public class Ex1 {
 
 //        Invalid password
 //        senhaFacebook.setValue("123");
+
+//        Weak password
+//        new WeakPassword().setValue("teste2");
+
+//        Average password
+//        new AveragePassword().setValue("teste2Asdas");
+
+//        Strong password
+//        new StrongPassword().setValue("Bootcamp#go2110");
     }
 }
