@@ -47,15 +47,15 @@ public class Book {
         this.emprestado = emprestado;
     }
 
-    public void emprestimo(){
-        if(emprestado){
+    public void emprestimo() {
+        if (emprestado) {
             System.out.println("Título já emprestado");
             return;
         }
         this.emprestado = true;
     }
 
-    public void devolver(){
+    public void devolver() {
         this.emprestado = false;
     }
 
